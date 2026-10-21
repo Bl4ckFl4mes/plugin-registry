@@ -475,6 +475,26 @@
       "version": "0.1.0",
       "downloadUrl": "https://github.com/Bl4ckFl4mes/nuclear-plugin-spotify-playlist-import/releases/download/v0.1.0/plugin.zip",
       "addedAt": "2026-10-20T23:30:00Z"
+    },
+    {
+      "id": "kracht-txt-playlist",
+      "name": "TXT \u2192 Playlist",
+      "description": "Create a playlist from a TXT song list (artist - title per line)",
+      "author": "Bl4ckFl4mes (derivative of EvgenchikS txt-queue, MIT)",
+      "repo": "Bl4ckFl4mes/kracht-txt-playlist",
+      "category": "other",
+      "categories": [
+        "other"
+      ],
+      "tags": [
+        "txt",
+        "playlist",
+        "import",
+        "kracht"
+      ],
+      "version": "1.0.0",
+      "downloadUrl": "https://github.com/Bl4ckFl4mes/kracht-txt-playlist/releases/download/v1.0.0/kracht-txt-playlist.zip",
+      "addedAt": "2026-10-21T00:00:00Z"
     }
   ],
   "version": 1
